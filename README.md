@@ -1,3 +1,2 @@
 # start_css
-# gsgv
-# Shadmehr
+# 22.12.04
