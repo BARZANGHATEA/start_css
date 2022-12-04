@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
 color: rebeccapurple;
 border-bottom: 20px solid royalblue;
@@ -55,3 +56,62 @@ h2{
 
 
 
+=======
+h1{
+color: rebeccapurple;
+border-bottom: 20px solid royalblue;
+}
+
+img{
+width: 50px;
+height: 100px;
+border-radius: 50%;
+border: 30px solid burlywood;
+}
+h2{
+    background-color: cyan;
+    color: darkorchid;
+    border: 5px solid brown;
+    padding: 5px;
+    margin: 5px;
+    text-align: end;
+}
+
+#d1{
+    text-align: end;
+    background-color: chartreuse;
+    display: inline;
+
+}
+#s1{
+    background-color: crimson;
+    border: 1px solid blue;
+    color: rgb(43, 255, 0);
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+#s2{
+    background-color: crimson;
+    border: 1px solid blue;
+    color: rgb(81, 255, 0);
+    display: inline;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 8703dd4cb9d9e2ecd4541bab07afaf76dd4b3181
